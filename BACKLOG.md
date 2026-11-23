@@ -1,21 +1,21 @@
 # Pocket Horde: backlog
 
-Updated 2026-11-22. Version 0.2.0. BC decides the order.
+Updated 2026-11-22. Version 0.3.0. BC decides the order.
 
 ## Done
 
 - 2026-11-22: reference review, name check, MVP plan (`PLAN.md`) and brief (`BRIEF.md`).
+- 2026-11-22: 0.3.0 the look and the hook. HD start screen, Sniglet title, music, sound effects, three gnomes, stars, daily goals, gnome level, the Wardrobe.
 - 2026-11-22: 0.2.0 the run. 10 waves, wasp and mole, 8 tools with merging, 24 trinkets, Grow, the full Shed, three difficulty levels, HD tool art.
 - 2026-11-22: 0.1.0 the swarm with the HD look. Five waves, three pests, three tools, seeds, the Shed, the run end. HD garden, gnome, aphid, slug and beetle (BC: "we need hd background and character graphics").
 
 ## Now
 
-- 0.3 the look and the hook: start screen, music, sound, three gnomes, completion and stars, daily goals, gnome level.
-- The look and sound decision page (G0.16): APK icon, gnome look, start screen scene, colors, title font, art direction, Game Shelf picture, two music tracks, sound effects, controls, tagline and backup name.
+- BC plays 0.2 and 0.3 and sends notes, mainly on late wave balance.
+- The game page and Game Shelf pictures refresh when the look changes.
 
 ## Asked for by BC, not built yet
 
-2. 0.3 The look and the hook. Toy render art, music and sound, start screen, three gnomes, unlocks, daily goals, gnome level, game page and Game Shelf card.
 
 ## Ideas to choose from (BC picks by number)
 

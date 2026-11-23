@@ -1,21 +1,20 @@
 # Pocket Horde: backlog
 
-Updated 2026-11-22. Version 0.1.0. BC decides the order.
+Updated 2026-11-22. Version 0.2.0. BC decides the order.
 
 ## Done
 
 - 2026-11-22: reference review, name check, MVP plan (`PLAN.md`) and brief (`BRIEF.md`).
+- 2026-11-22: 0.2.0 the run. 10 waves, wasp and mole, 8 tools with merging, 24 trinkets, Grow, the full Shed, three difficulty levels, HD tool art.
 - 2026-11-22: 0.1.0 the swarm with the HD look. Five waves, three pests, three tools, seeds, the Shed, the run end. HD garden, gnome, aphid, slug and beetle (BC: "we need hd background and character graphics").
 
 ## Now
 
-- BC plays 0.1.0 and sends notes.
-- HD tool art in place of the lettered squares, HD seeds and leaf puffs.
+- 0.3 the look and the hook: start screen, music, sound, three gnomes, completion and stars, daily goals, gnome level.
 - The look and sound decision page (G0.16): APK icon, gnome look, start screen scene, colors, title font, art direction, Game Shelf picture, two music tracks, sound effects, controls, tagline and backup name.
 
 ## Asked for by BC, not built yet
 
-1. 0.2 The run. 10 waves, five pest kinds, eight tools with merging, 24 trinkets, Grow picks, the full Shed, three difficulty levels, score and best, achievements.
 2. 0.3 The look and the hook. Toy render art, music and sound, start screen, three gnomes, unlocks, daily goals, gnome level, game page and Game Shelf card.
 
 ## Ideas to choose from (BC picks by number)
@@ -49,3 +48,4 @@ Updated 2026-11-22. Version 0.1.0. BC decides the order.
 - 2026-11-22, picks the same afternoon: garden gnome against garden pests. Clean toy render as 2D sprites. The run ends when health runs out, with unlocks and records kept and three difficulty levels. 10 waves in the MVP, a 20 wave mode later.
 - 2026-11-22, 4:17 PM: "No boss battles". "lets focus on just 1 level right now and get the gameplay and graphics in place before adding multiple levels". "you can move forward using yuor best judgement". Brief approved. The name stays Pocket Horde as the working name (Claude's call).
 - 2026-11-22, 5:04 PM: "we need hd background and character graphics". HD painted garden, gnome and pests made with Nano Banana Pro and shipped in 0.1.0.
+- 2026-11-22, 5:32 PM: "first play thorugh was good, keep going to next few releases". 0.2.0 the run, then 0.3.0 the look and the hook.
